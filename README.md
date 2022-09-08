@@ -2,4 +2,4 @@
 
 ### Complete full project
 
-  <img src ="complete/com.gif" width = "40%">
+  <img src ="complete/com.gif" width = "100%">
